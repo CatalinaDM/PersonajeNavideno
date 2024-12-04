@@ -18,14 +18,14 @@ Jack .El extraño mundo de Jack.
 
 
 ## Índice
-1. [Dibujo del prototipo](#ejercicio-práctico-integral)
-2. [Imagenes del proyecto final](#ejercicios-en-clase)
-3. [Funcionalidades tecnicas](#proyecto-navideño)
-4. [Curso de JavaScript en NetAcad](#curso-python-en-netacad)
-5. [TikTok](#Video/TikTok)
+1. [Dibujo del prototipo](#dibujo-del-prototipo-a-desarrollar)
+2. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
+3. [Funcionalidades tecnicas](#funcionalidades-tecnicas)
+4. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
+5. [TikTok](#video-tiktok)
 
 ---
-# Dibujo del prototipo a desarrollar 
+# Dibujo del prototipo a desarrollar
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 ![Dibujo resyes magos](https://github.com/dalisoto/Personaje/blob/main/Dibujo%20reyes%20magos.jpg?raw=true)
 ![Prototipo de proyecto](https://github.com/dalisoto/Personaje/assets/139840896/694815de-58d4-4101-8534-eb34bfeb3dda)
@@ -98,7 +98,7 @@ Avance documentado en el curso de Python en NetAcad.
 ---
 
 
-### Video/TikTok
+### Video TikTok
 
 **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/drive/u/1/folders/1o47CB6RPJIRe-7IU7Vzuq3KmIt1-O2Zt)
 
