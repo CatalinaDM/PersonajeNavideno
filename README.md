@@ -92,8 +92,25 @@ Imagen
 ### Curso JavaScript en NetAcad
 
 Avance documentado en el curso de Python en NetAcad.
+## Módulo 1 
+<img src="https://web.whatsapp.com/cbd6840c-9de8-4f67-b1a6-792a7615e825"/>
 
-- **Aplicación de conceptos de Python**: [Descripción breve de cómo aplicarías estos conceptos en proyectos de IoT]
+
+## Módulo 2
+<img src="https://github.com/user-attachments/assets/c349bcae-fe84-405b-b2e2-8f219137ba44"/>
+
+## Módulo 3
+<img src="https://github.com/user-attachments/assets/c3900d5f-84c6-4bf0-93ed-9dd31409139a"/>
+
+## Módulo 4
+<img src="https://github.com/user-attachments/assets/794db34a-5197-4843-bcd6-af97452c1a08"/>
+
+## Examen final del Curso
+<img src="https://github.com/user-attachments/assets/6f97d3d2-a42f-47d1-a448-294280e29139"/>
+
+## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 4 y examen Final del Curso
+<img src="https://github.com/user-attachments/assets/165f150f-034a-4593-a072-3afa0f703ecf"/>
+
 - **Capturas de pantalla**: Disponibles en la carpeta [`Curso_Python_NetAcad`](Curso_Python_NetAcad)
 
 ---
