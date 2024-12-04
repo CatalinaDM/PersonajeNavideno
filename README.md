@@ -20,7 +20,7 @@ Jack .El extraño mundo de Jack.
 ## Índice
 1. [Dibujo del prototipo](#dibujo-del-prototipo-a-desarrollar)
 2. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
-3. [Codigo fuente](/Ejercicio_En_Clase/Videos_Y_Descripcion.md)
+3. [Codigo fuente](/codigo_fuente)
 4. [Funcionalidades tecnicas](#funcionalidades-tecnicas)
 5. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
 6. [TikTok](#video-tiktok)
