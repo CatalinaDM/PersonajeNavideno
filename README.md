@@ -20,7 +20,8 @@ Jack .El extraño mundo de Jack.
 ## Índice
 1. [Dibujo del prototipo](#dibujo-del-prototipo-a-desarrollar)
 2. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
-3. [Funcionalidades tecnicas](#funcionalidades-tecnicas)
+3. [Codigo fuente](/Ejercicio_En_Clase/Videos_Y_Descripcion.md)
+4. [Funcionalidades tecnicas](#funcionalidades-tecnicas)
 5. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
 6. [TikTok](#video-tiktok)
 
@@ -93,23 +94,28 @@ Imagen
 
 Avance documentado en el curso de Python en NetAcad.
 ## Módulo 1 
-<img src="https://web.whatsapp.com/cbd6840c-9de8-4f67-b1a6-792a7615e825"/>
-
+<img src="https://github.com/user-attachments/assets/27251d98-d34f-45e6-b9a4-b1ff27fab61a"/>
 
 ## Módulo 2
-<img src="https://github.com/user-attachments/assets/c349bcae-fe84-405b-b2e2-8f219137ba44"/>
+<img src="!https://github.com/user-attachments/assets/cbcdc447-dd0f-4a4f-95fd-3c28ffd45249"/>
 
 ## Módulo 3
-<img src="https://github.com/user-attachments/assets/c3900d5f-84c6-4bf0-93ed-9dd31409139a"/>
+<img src="https://github.com/user-attachments/assets/9af782bb-866f-4748-a501-4509df9e3a5f"/>
 
 ## Módulo 4
-<img src="https://github.com/user-attachments/assets/794db34a-5197-4843-bcd6-af97452c1a08"/>
+<img src="https://github.com/user-attachments/assets/f1c5b10a-7760-4677-9fce-7e2efe55568b"/>
+
+## Módulo 5
+<img src="https://github.com/user-attachments/assets/b5e22c13-8ba1-456e-8c60-1fac41e756b9"/>
+
+## Módulo 6
+<img src="https://github.com/user-attachments/assets/fa1b8b44-e372-476c-b532-9649d03dbdac"/>
 
 ## Examen final del Curso
-<img src="https://github.com/user-attachments/assets/6f97d3d2-a42f-47d1-a448-294280e29139"/>
+<img src="https://github.com/user-attachments/assets/56455999-6546-4f45-a830-713782b4ce3b"/>
 
 ## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 4 y examen Final del Curso
-<img src="https://github.com/user-attachments/assets/165f150f-034a-4593-a072-3afa0f703ecf"/>
+<img src="https://github.com/user-attachments/assets/dbde5e37-0b8a-4655-bdeb-ddae64065694"/>
 
 - **Capturas de pantalla**: Disponibles en la carpeta [`Curso_Python_NetAcad`](Curso_Python_NetAcad)
 
