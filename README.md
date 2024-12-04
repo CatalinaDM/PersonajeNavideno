@@ -21,8 +21,8 @@ Jack .El extraño mundo de Jack.
 1. [Dibujo del prototipo](#dibujo-del-prototipo-a-desarrollar)
 2. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
 3. [Funcionalidades tecnicas](#funcionalidades-tecnicas)
-4. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
-5. [TikTok](#video-tiktok)
+5. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
+6. [TikTok](#video-tiktok)
 
 ---
 # Dibujo del prototipo a desarrollar
@@ -79,7 +79,8 @@ Esta sección incluye los ejercicios realizados en clase, enfocados en el uso de
 - **Video de demostración**: [Enlace al video de demostración](https://drive.google.com/file/d/19A6oRRqPATMFhrP-wInig2IHFU9zGOD3/view?usp=drivesdk)
 
 ---
-### COMUNICACIÒN 
+### COMUNICACIÒN Node-RED y MQTT.
+- **Carpeta**: [`Conexiones Node-Red`](conexiones_NodeRed)
 
 ### SENSORES
 
