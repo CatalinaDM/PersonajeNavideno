@@ -20,10 +20,10 @@ Jack .El extraño mundo de Jack.
 ## Índice
 1. [Dibujo del prototipo](#dibujo-del-prototipo-a-desarrollar)
 2. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
-3. [Codigo fuente](/codigo_fuente)
-4. [Funcionalidades tecnicas](#funcionalidades-técnicas)
-5. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
-6. [TikTok](#video-tiktok)
+3. [Codigo fuente](/código_fuente)
+5. [Funcionalidades tecnicas](#funcionalidades-técnicas)
+6. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
+7. [TikTok](#video-tiktok)
 
 ---
 # Dibujo del prototipo a desarrollar
@@ -35,6 +35,9 @@ Jack .El extraño mundo de Jack.
 <img src="https://github.com/user-attachments/assets/13a845b7-500b-4803-92c6-59ffb3bdcfd2"/>
 <img src="https://github.com/user-attachments/assets/dfc90555-fc38-4ebd-a52c-c09b6c4fef31"/>
 <img src="https://github.com/user-attachments/assets/e8cff29d-e3ba-4b2a-bdea-2c0650179485"/>
+
+# Código Fuente
+- **Carpeta**: [`Código fuente`](codigo_fuente)
 
 # Funcionalidades técnicas 
 
