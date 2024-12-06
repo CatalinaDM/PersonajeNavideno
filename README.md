@@ -25,7 +25,6 @@ Jack .El extraño mundo de Jack.
 5. [Funcionalidades tecnicas](#funcionalidades-técnicas)
 6. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
 7. [TikTok](#video-tiktok)
-8. [Coevaluación](#coevaluacion)
 
 ---
 
@@ -60,6 +59,8 @@ Jack .El extraño mundo de Jack.
 |Escarcha navideña|<img src="https://github.com/user-attachments/assets/1109c1e8-717b-4e12-ac6c-427b8f24df71" width="150" />    | 8 | $24 |
 | Cartón | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLIQAjgcOgnoNidi9iGAqGWCgLKrnXPPeJA&s" width="150" />      | 1 | $20 |
 |Palos de madera|<img src="https://github.com/user-attachments/assets/1d129dd7-6f05-4e7c-8657-af61fe583f8e" width="150" /> | 8 | $24 |
+
+
 
 
 ## Software a utilizar
@@ -189,25 +190,29 @@ Avance documentado en el curso de JavaScript en NetAcad de Carmen Catalina Delga
 
 Avance documentado en el curso de JavaScript en NetAcad de Juan Francisco Rodríguez Guerrero
 ## Módulo 1 
-<img src="https://github.com/user-attachments/assets/27251d98-d34f-45e6-b9a4-b1ff27fab61a"/>
+<img src="![image](https://github.com/user-attachments/assets/724fa8d3-30ff-4172-8190-7bf21b8eacdd)
+"/>
 
 ## Módulo 2
-<img src="!https://github.com/user-attachments/assets/cbcdc447-dd0f-4a4f-95fd-3c28ffd45249"/>
+<img src="![image](https://github.com/user-attachments/assets/8c811cfd-7ad8-4726-8f37-3b0cef575d64)
+"/>
 
 ## Módulo 3
-<img src="https://github.com/user-attachments/assets/9af782bb-866f-4748-a501-4509df9e3a5f"/>
+<img src="![image](https://github.com/user-attachments/assets/f9111327-30a2-4f7b-be55-ea8a5024ce5f)
+"/>
 
 ## Módulo 4
-<img src="https://github.com/user-attachments/assets/f1c5b10a-7760-4677-9fce-7e2efe55568b"/>
+<img src="![image](https://github.com/user-attachments/assets/03c70c27-64bf-44a3-a0ab-5b170250b357)
+"/>
 
 ## Módulo 5
-<img src="https://github.com/user-attachments/assets/b5e22c13-8ba1-456e-8c60-1fac41e756b9"/>
+<img src="![image](https://github.com/user-attachments/assets/0823f4f8-199d-4ff7-97ac-3bfb40792907)"/>
 
 ## Módulo 6
-<img src="https://github.com/user-attachments/assets/fa1b8b44-e372-476c-b532-9649d03dbdac"/>
+<img src="![image](https://github.com/user-attachments/assets/00ac4c3b-6986-43a3-8695-9a7862b76a64)"/>
 
 ## Examen final del Curso
-<img src="https://github.com/user-attachments/assets/56455999-6546-4f45-a830-713782b4ce3b"/>
+<img src="![image](https://github.com/user-attachments/assets/f24f2d32-7a70-443c-8747-71cd5abaef46)"/>
 
 ## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 6 y examen Final del Curso
 <img src="https://github.com/user-attachments/assets/dbde5e37-0b8a-4655-bdeb-ddae64065694"/>
