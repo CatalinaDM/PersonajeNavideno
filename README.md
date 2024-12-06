@@ -25,6 +25,7 @@ Jack .El extraño mundo de Jack.
 5. [Funcionalidades tecnicas](#funcionalidades-técnicas)
 6. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
 7. [TikTok](#video-tiktok)
+8. [Coevaluación](#coevaluacion)
 
 ---
 
@@ -59,8 +60,6 @@ Jack .El extraño mundo de Jack.
 |Escarcha navideña|<img src="https://github.com/user-attachments/assets/1109c1e8-717b-4e12-ac6c-427b8f24df71" width="150" />    | 8 | $24 |
 | Cartón | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLIQAjgcOgnoNidi9iGAqGWCgLKrnXPPeJA&s" width="150" />      | 1 | $20 |
 |Palos de madera|<img src="https://github.com/user-attachments/assets/1d129dd7-6f05-4e7c-8657-af61fe583f8e" width="150" /> | 8 | $24 |
-
-
 
 
 ## Software a utilizar
