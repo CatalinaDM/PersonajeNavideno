@@ -219,11 +219,11 @@ Avance documentado en el curso de JavaScript en NetAcad de Juan Francisco Rodrí
 
 **Video de demostración**: [Enlace al video de demostración](https://vm.tiktok.com/ZMkeNUwAq/)
 
-### Coevaluación
+# Coevaluación
 
 ##Coevaluación de Carmen Catalina Delgado Manzano para Juan Francisco Rodríguez Guerrero
 
-En este último cuatri, mi compañero se esforzo más por tener más comunicación, cuando había anvances del trabajo que teniamos que hacer individualmente siempre estuvo enviando evidencias. 
+En este último cuatri, mi compañero se esforzo más por tener más comunicación, cuando había anvances del trabajo que teniamos que hacer individualmente siempre estuvo enviando evidencias, respecto a los componentes es muy muy bueno, se le facilita identificar los componentes y fue el pilar para la comunicación con el NodeRed
 
 Es una persona que trabaja muy bien idividualmente y le gusta trabajar a su ritmo, por ello algo que podría mejorar es que tratara de no querer hacer todo el código el solo, sin embargo, si se eforzo porque compartio más cosas que la unidad pasada por lo que considero que nos complementamos, cosas que el no sabia hacer, yo buscaba resolverlas y  viceversa.
 
