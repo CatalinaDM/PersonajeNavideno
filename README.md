@@ -25,6 +25,7 @@ Jack .El extraño mundo de Jack.
 5. [Funcionalidades tecnicas](#funcionalidades-técnicas)
 6. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
 7. [TikTok](#video-tiktok)
+8. [Coevaluación](#coevaluación)
 
 ---
 
