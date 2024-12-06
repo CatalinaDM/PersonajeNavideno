@@ -19,16 +19,51 @@ Jack .El extraño mundo de Jack.
 
 ## Índice
 1. [Dibujo del prototipo](#dibujo-del-prototipo-a-desarrollar)
-2. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
-3. [Codigo fuente](/código_fuente)
+2. [Materiales utilizados](#materiales-a-utilizar)
+3. [Imagenes del proyecto final](#imagenes-del-proyecto-final)
+4. [Codigo fuente](/código_fuente)
 5. [Funcionalidades tecnicas](#funcionalidades-técnicas)
 6. [Curso de JavaScript en NetAcad](#curso-javascript-en-netacad)
 7. [TikTok](#video-tiktok)
 
 ---
+
 # Dibujo del prototipo a desarrollar
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 <img src="https://github.com/user-attachments/assets/79cad305-b6c0-4b67-8c7d-225b1b2fdd36"/>
+
+
+## Materiales a utlizar
+|Material|Imagen|Cantidad|Costo|
+|--|--|--|--|
+|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|3|120.00|
+|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
+|LEDs|<img width="100" src="https://github.com/user-attachments/assets/0d7f633c-1e91-42bd-ad1e-6f5d9c72771e"/>|1|23
+|RGB LEDs|<img width="100" src="https://github.com/user-attachments/assets/ec5d1eb2-b3ba-4ece-90c2-53470c24e91d" />|20|0.5|
+|Servomotor|<img width="100" src="https://madenginer.com/wp-content/uploads/2023/07/Mengenal-Motor-Servo.jpeg"/>|2|132|
+|Buzzer|<img width="100" src="https://static1.efcomponentes.com.ar/138-thickbox_default/buzzer-con-oscilador-de-3v-a-25v.jpg"/>|1|80|
+| Matriz 7219 |<img src="https://http2.mlstatic.com/D_NQ_NP_818491-MLM31229841893_062019-O.webp" width="150" /> | 1        | $95    |
+|Protoboard|<img width="100" src="https://electronicamade.com/wp-content/uploads/2020/04/Protoboard.jpg"/>|1|140|
+|Jumpers|<img width="100" src="https://www.robotstore.it/images/products/Set_Cavetti_40poli_M-M_10%20cm_1.jpg"/>|1 paq|190|
+|Algodon|<img width="100" src="https://instrumentalia.com.co/img/cms/3M/Algodon.jpg"/>|1|250|
+|Gorro|<img width="100" src= "https://github.com/user-attachments/assets/5091941f-d2fa-4a63-b865-3b106a589cdf"/>|1 m|20|
+|Tela blanca|<img width="100" src="https://i.etsystatic.com/9992749/r/il/98b56d/908101406/il_fullxfull.908101406_itgc.jpg"/>|1 m|20|
+|Tela negra|<img width="100" src="https://github.com/user-attachments/assets/53f3960b-7491-4c4b-a7f3-c29bdc66698c"/>|1 m|20|
+|Tela transparente|<img width="100" src= "https://tecidosvidatex.com.br/wp-content/uploads/2022/12/Tule-de-Poliamida_FF912-_BORDADOS-CURY_1.png"/>|1 m|40|
+|Esfera de unicel|<img width="100" src="https://superpapelera.com.mx/wp-content/uploads/2023/05/16108013.webp"/>|1|50|
+|Alambre de aluminio|<img width="100" src="https://http2.mlstatic.com/D_NQ_NP_951473-MLM42824749581_072020-F.jpg"/>|1|110|
+![image](https://github.com/user-attachments/assets/d87bfdcc-d070-4388-80d2-1ebc0bc7bd00)
+![image](https://github.com/user-attachments/assets/ddb2f6ec-d290-4631-8e3f-b64c5cfc8338)
+
+
+## Software a utilizar
+|Software|Versión|
+|--|--|
+|Thonny|4.1.6|
+|ARDUINO IDE|2.3.2|
+|Fritzing|0.9.3b|
+|Node-RED|v22.9.0|
+|TinkerCAD||
 
 # Imagenes del proyecto final 
 <img src="https://github.com/user-attachments/assets/73fc9bc0-eb24-4543-8c12-bb2069dbe7ed"/>
