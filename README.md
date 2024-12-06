@@ -13,7 +13,7 @@ Jack .El extraño mundo de Jack.
 | Asingación | Información |
 |--|--|
 | Alumno 2 | Rodriguez Guerrero Juan Francisco |
-| Número de control | 1223100422 |
+| Número de control | 1223100441 |
 | Gupo | GDS0643 |
 
 
@@ -183,7 +183,7 @@ Avance documentado en el curso de JavaScript en NetAcad.
 ## Examen final del Curso
 <img src="https://github.com/user-attachments/assets/56455999-6546-4f45-a830-713782b4ce3b"/>
 
-## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 4 y examen Final del Curso
+## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 6 y examen Final del Curso
 <img src="https://github.com/user-attachments/assets/dbde5e37-0b8a-4655-bdeb-ddae64065694"/>
 
 ---
