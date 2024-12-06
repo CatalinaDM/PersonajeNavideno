@@ -190,29 +190,25 @@ Avance documentado en el curso de JavaScript en NetAcad de Carmen Catalina Delga
 
 Avance documentado en el curso de JavaScript en NetAcad de Juan Francisco Rodríguez Guerrero
 ## Módulo 1 
-<img src="![image](https://github.com/user-attachments/assets/724fa8d3-30ff-4172-8190-7bf21b8eacdd)
-"/>
+<img src="https://github.com/user-attachments/assets/724fa8d3-30ff-4172-8190-7bf21b8eacdd"/>
 
 ## Módulo 2
-<img src="![image](https://github.com/user-attachments/assets/8c811cfd-7ad8-4726-8f37-3b0cef575d64)
-"/>
+<img src="https://github.com/user-attachments/assets/8c811cfd-7ad8-4726-8f37-3b0cef575d64"/>
 
 ## Módulo 3
-<img src="![image](https://github.com/user-attachments/assets/f9111327-30a2-4f7b-be55-ea8a5024ce5f)
-"/>
+<img src="https://github.com/user-attachments/assets/f9111327-30a2-4f7b-be55-ea8a5024ce5f"/>
 
 ## Módulo 4
-<img src="![image](https://github.com/user-attachments/assets/03c70c27-64bf-44a3-a0ab-5b170250b357)
-"/>
+<img src="https://github.com/user-attachments/assets/03c70c27-64bf-44a3-a0ab-5b170250b357"/>
 
 ## Módulo 5
-<img src="![image](https://github.com/user-attachments/assets/0823f4f8-199d-4ff7-97ac-3bfb40792907)"/>
+<img src="https://github.com/user-attachments/assets/0823f4f8-199d-4ff7-97ac-3bfb40792907"/>
 
 ## Módulo 6
-<img src="![image](https://github.com/user-attachments/assets/00ac4c3b-6986-43a3-8695-9a7862b76a64)"/>
+<img src="https://github.com/user-attachments/assets/00ac4c3b-6986-43a3-8695-9a7862b76a64"/>
 
 ## Examen final del Curso
-<img src="![image](https://github.com/user-attachments/assets/f24f2d32-7a70-443c-8747-71cd5abaef46)"/>
+<img src="https://github.com/user-attachments/assets/f24f2d32-7a70-443c-8747-71cd5abaef46"/>
 
 ## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 6 y examen Final del Curso
 <img src="https://github.com/user-attachments/assets/dbde5e37-0b8a-4655-bdeb-ddae64065694"/>
@@ -234,6 +230,8 @@ No es tan colborativo.
 
 
 ##Coevaluación de Juan Francisco Rodríguez Guerrero para Carmen Catalina Delgado Manzano
+
+En general mi compañera de equipo es una persona muy coolaborativa a la hora de trabajar, me parece excelente la forma en que apoya a la hora de realizar practicas y generar ideas. Tambien considero necesario destacar la iniciativa con la que cuenta, es muy notorio que ella comprende y entiende el tema, los codigos y los circuitos, ademas que se le facilita mucho identificar los componentes, funciones y metodos, y como se pueden implementar dentro de las practicas lo cual fue de gran ayuda y creo que en cierta forma se le facilita mucho generar ideas y complementarlas, pero cabe destacar que en el transcurso de los trabajos sentí un poco que le faltar mantener firmes sus ideas y desarrollarlas mas a fondo. Despues del trabajo realizado se que mi compañera sabe lo que esta haciendo y aportó puntos fuertes para apoyar en la finalizacion del proyecto.
 
 
 
