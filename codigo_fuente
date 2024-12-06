@@ -127,3 +127,159 @@ _thread.start_new_thread(start_scroll_thread, ())
 # Ciclo principal para manejar mensajes MQTT
 while True:
     client.wait_msg()
+
+
+
+
+
+
+
+Segundo Código
+import network
+from umqtt.simple import MQTTClient
+from machine import Pin, PWM
+from time import sleep,sleep_ms
+import uasyncio as asyncio
+from hcsr04 import HCSR04
+
+# Configuración de pines y módulos
+sensor = HCSR04(trigger_pin=15, echo_pin=4)
+
+# Propiedades para conectar a un cliente MQTT
+MQTT_BROKER = "broker.emqx.io"
+MQTT_TOPIC = "gds0643/jfrg/main"
+MQTT_PORT = 1883
+MQTT_CLIENT_ID = "esp32"
+
+# Pines de los LEDs
+led = Pin(2, Pin.OUT)
+led.value(0)
+led1 = Pin(5, Pin.OUT)
+led1.value(0)
+
+# Objeto PWM para los servos
+servo_16 = PWM(Pin(16), freq=50)
+
+# Notas de Jingle Bells con frecuencias y duraciones
+E7  = 2637
+G7  = 3136
+C7  = 2093
+D7  = 2349
+F7  = 2794
+
+jingle = [
+    E7, E7, E7,  E7, E7, E7, E7, G7, C7, D7, E7, 
+    F7, F7, F7, F7, F7, E7, E7, E7, E7, D7, D7, E7, D7, G7,
+    E7, E7, E7, E7, E7, E7, E7, G7, C7, D7, E7,
+    F7, F7, F7, F7, F7, E7, E7, E7, G7, G7, F7, D7, C7,
+]
+
+note_durations = [
+    250, 250, 250, 250, 250, 250, 250, 500, 250, 250, 250,  # E7, E7, E7, C7, E7
+    250, 250, 250, 250, 250, 250, 250, 250, 250, 250, 500, 250,  # G7, G7, G7, E7
+    250, 250, 250, 250, 250, 250, 250, 250, 500, 250, 250, 250,  # A7, G7, E7
+    250, 250, 250, 250, 250, 250, 250, 250, 500, 250, 250, 250   # A7, G7, F7, E7
+]
+
+# Buzzer class
+class Buzzer:
+    def __init__(self, sig_pin):
+        self.pwm = PWM(Pin(sig_pin, Pin.OUT))
+
+    async def play(self, melody, durations, duty):
+        for note, duration in zip(melody, durations):
+            self.pwm.freq(note)
+            self.pwm.duty(duty)
+            await asyncio.sleep(duration / 1000)  # Convertir milisegundos a segundos
+        self.pwm.duty(0)  # Detener el sonido después de la última nota
+
+# Instanciar objeto Buzzer
+buzzer = Buzzer(13)
+
+# Función para conectar a WiFi
+def conectar_wifi():
+    print("Conectando a WiFi...")
+    sta_if = network.WLAN(network.STA_IF)
+    sta_if.active(True)
+    sta_if.connect('UTNG_GUEST', 'R3d1nv1t4d0s#UT')
+    while not sta_if.isconnected():
+        print(".", end="")
+        sleep(0.5)
+    print("\nWiFi Conectada:", sta_if.ifconfig())
+
+# Función encargada de encender un LED cuando un mensaje se lo diga
+def llegada_mensaje(topic, msg):
+    print("Mensaje:", msg) 
+    if msg == b'hola':
+        led.value(1)
+        led1.value(1)
+    elif msg == b'adios':
+        led.value(0)
+        led1.value(0)
+    elif msg == b'musica':
+        asyncio.create_task(buzzer.play(jingle, note_durations, 512))  # Ejecutar la música de forma asíncrona
+
+# Conexión MQTT
+def subscribir():
+    try:
+        client = MQTTClient(MQTT_CLIENT_ID, MQTT_BROKER, port=MQTT_PORT)
+        client.set_callback(llegada_mensaje)
+        client.connect()
+        client.subscribe(MQTT_TOPIC)
+        print(f"Conectado al broker {MQTT_BROKER}, suscrito al tópico {MQTT_TOPIC}")
+        return client
+    except Exception as e:
+        print(f"Error al conectar al broker MQTT: {e}")
+        raise
+
+# Función para mover los servos a un ángulo específico
+def move_servo(servo, angle):
+    min_duty = 26  # Corresponde a 0 grados
+    max_duty = 127  # Corresponde a 180 grados
+    duty = int(min_duty + (angle / 180) * (max_duty - min_duty))
+    servo.duty(duty)
+
+# Función para manejar el sensor y los servos en una tarea asincrónica
+async def sensor_servo_task():
+    move_servo(servo_16, 95)  # Inicializa el servo a 90 grados al comenzar
+    estado_servo = 1  # Estado que indica si se debe mover el servo o no
+
+    while True:
+        distancia = sensor.distance_cm()
+        print("Distancia del objeto: {:.2f} cm".format(distancia))
+
+        if distancia > 100 and estado_servo == 1:
+            # Mover el servo de 75 a 15 grados gradualmente
+            for i in range(75, 15, -1):
+                move_servo(servo_16, i)
+                sleep_ms(20)  # Esperar para mover lentamente
+            estado_servo = 0  # Detener el movimiento después de completar
+
+        elif distancia <= 100 and estado_servo == 0:
+            # Mover el servo de vuelta a 95 grados si la distancia es menor o igual a 100
+            move_servo(servo_16, 95)
+            estado_servo = 1  # Permitir el movimiento cuando la distancia vuelva a ser mayor
+
+        await asyncio.sleep(1)  # Esperar medio segundo antes de volver a leer la distancia
+
+# Función para manejar la conexión MQTT en una tarea asincrónica
+async def mqtt_task():
+    client = subscribir()
+    while True:
+        client.check_msg()  # Esta es la forma de no bloquear el código. Verifica los mensajes de MQTT sin esperar indefinidamente.
+        await asyncio.sleep(0.1)  # Pequeña espera para liberar el ciclo
+
+# Función principal
+async def main():
+    conectar_wifi()
+
+    # Crear y ejecutar las tareas asincrónicas
+    asyncio.create_task(sensor_servo_task())  # Tarea para el sensor y los servos
+    asyncio.create_task(mqtt_task())  # Tarea para el MQTT
+
+    # Mantener el programa en ejecución
+    while True:
+        await asyncio.sleep(1)  # Mantener el loop asincrónico activo
+
+# Iniciar el bucle de eventos asincrónicos
+asyncio.run(main())
