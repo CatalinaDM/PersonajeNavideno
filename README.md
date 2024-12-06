@@ -52,8 +52,15 @@ Jack .El extraño mundo de Jack.
 |Tela transparente|<img width="100" src= "https://tecidosvidatex.com.br/wp-content/uploads/2022/12/Tule-de-Poliamida_FF912-_BORDADOS-CURY_1.png"/>|1 m|40|
 |Esfera de unicel|<img width="100" src="https://superpapelera.com.mx/wp-content/uploads/2023/05/16108013.webp"/>|1|50|
 |Alambre de aluminio|<img width="100" src="https://http2.mlstatic.com/D_NQ_NP_951473-MLM42824749581_072020-F.jpg"/>|1|110|
-![image](https://github.com/user-attachments/assets/d87bfdcc-d070-4388-80d2-1ebc0bc7bd00)
-![image](https://github.com/user-attachments/assets/ddb2f6ec-d290-4631-8e3f-b64c5cfc8338)
+|Pintura negra y gris|<img width="100" src="https://github.com/user-attachments/assets/68eeeff8-058a-4f7c-a1b1-6a555693c75f"/>|1|110|
+|Pintura amarilla|<img width="100" src="https://github.com/user-attachments/assets/b7adef94-a43f-4724-a31d-4d4a7d1043a8"/>|1|110|
+|Fomi moldeable|<img width="100" src="https://github.com/user-attachments/assets/a3dd3a69-6914-4c9b-ab54-72d3d4346fb9"/>|1|110|
+|Tiras de silicón|<img src="https://iweytextil.com.mx/wp-content/uploads/2024/03/0014-1.png" width="150" />    | 8 | $24 |
+|Escarcha navideña|<img src="https://github.com/user-attachments/assets/1109c1e8-717b-4e12-ac6c-427b8f24df71" width="150" />    | 8 | $24 |
+| Cartón | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLIQAjgcOgnoNidi9iGAqGWCgLKrnXPPeJA&s" width="150" />      | 1 | $20 |
+|Palos de madera|<img src="https://github.com/user-attachments/assets/1d129dd7-6f05-4e7c-8657-af61fe583f8e" width="150" /> | 8 | $24 |
+
+
 
 
 ## Software a utilizar
