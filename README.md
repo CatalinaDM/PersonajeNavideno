@@ -211,7 +211,7 @@ Avance documentado en el curso de JavaScript en NetAcad de Juan Francisco Rodrí
 <img src="https://github.com/user-attachments/assets/f24f2d32-7a70-443c-8747-71cd5abaef46"/>
 
 ## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 6 y examen Final del Curso
-<img src="https://github.com/user-attachments/assets/dbde5e37-0b8a-4655-bdeb-ddae64065694"/>
+<img src="https://github.com/user-attachments/assets/089deab7-a7e6-493a-8f83-2fd5adc3950f"/>
 
 ---
 ### Video TikTok
