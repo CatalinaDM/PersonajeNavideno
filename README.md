@@ -161,7 +161,7 @@ En la esquina superioro derecha se agregaron decoraciones navideñas.
 
 ### Curso JavaScript en NetAcad
 
-Avance documentado en el curso de JavaScript en NetAcad.
+Avance documentado en el curso de JavaScript en NetAcad de Carmen Catalina Delgado Manzano
 ## Módulo 1 
 <img src="https://github.com/user-attachments/assets/27251d98-d34f-45e6-b9a4-b1ff27fab61a"/>
 
@@ -188,7 +188,48 @@ Avance documentado en el curso de JavaScript en NetAcad.
 
 ---
 
+Avance documentado en el curso de JavaScript en NetAcad de Juan Francisco Rodríguez Guerrero
+## Módulo 1 
+<img src="https://github.com/user-attachments/assets/27251d98-d34f-45e6-b9a4-b1ff27fab61a"/>
+
+## Módulo 2
+<img src="!https://github.com/user-attachments/assets/cbcdc447-dd0f-4a4f-95fd-3c28ffd45249"/>
+
+## Módulo 3
+<img src="https://github.com/user-attachments/assets/9af782bb-866f-4748-a501-4509df9e3a5f"/>
+
+## Módulo 4
+<img src="https://github.com/user-attachments/assets/f1c5b10a-7760-4677-9fce-7e2efe55568b"/>
+
+## Módulo 5
+<img src="https://github.com/user-attachments/assets/b5e22c13-8ba1-456e-8c60-1fac41e756b9"/>
+
+## Módulo 6
+<img src="https://github.com/user-attachments/assets/fa1b8b44-e372-476c-b532-9649d03dbdac"/>
+
+## Examen final del Curso
+<img src="https://github.com/user-attachments/assets/56455999-6546-4f45-a830-713782b4ce3b"/>
+
+## Porcentaje  de evaluaciones finales del Módulo 1 a  Módulo 6 y examen Final del Curso
+<img src="https://github.com/user-attachments/assets/dbde5e37-0b8a-4655-bdeb-ddae64065694"/>
+
+---
 ### Video TikTok
 
 **Video de demostración**: [Enlace al video de demostración](https://vm.tiktok.com/ZMkeNUwAq/)
+
+### Coevaluación
+
+##Coevaluación de Carmen Catalina Delgado Manzano para Juan Francisco Rodríguez Guerrero
+
+En este último cuatri, mi compañero se esforzo más por tener más comunicación, cuando había anvances del trabajo que teniamos que hacer individualmente siempre estuvo enviando evidencias. 
+
+Es una persona que trabaja muy bien idividualmente y le gusta trabajar a su ritmo, por ello algo que podría mejorar es que tratara de no querer hacer todo el código el solo, sin embargo, si se eforzo porque compartio más cosas que la unidad pasada por lo que considero que nos complementamos, cosas que el no sabia hacer, yo buscaba resolverlas y  viceversa.
+
+No es tan colborativo. 
+
+
+##Coevaluación de Juan Francisco Rodríguez Guerrero para Carmen Catalina Delgado Manzano
+
+
 
